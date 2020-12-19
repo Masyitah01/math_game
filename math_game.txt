@@ -4,6 +4,9 @@ int main(){
 cout<< "\n Hello World";
 cout<<"\nI like Git";
 cout<<"\nI like Github";
+
+cout<<"what is 1+4";
+cin>>x;
 return 1;
 
 }
